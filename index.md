@@ -10,4 +10,4 @@ import json
 
 ### Support or Contact
 
-Having trouble with Python for Change Software? Check out our [documentation](https://pythonforchange.github.io/)
+Having trouble with Python for Change Software? Check out our [documentation](https://pythonforchange.github.io/).
