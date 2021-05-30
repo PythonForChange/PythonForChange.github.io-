@@ -35,7 +35,7 @@ Larger projects often have sections on contributing to their project, in which c
 
 ### License
 
-This proyect is under the MIT lincense 📄 - check [LICENSE](LICENSE.md) for details.
+This proyect is under the MIT lincense 📄 - check [LICENSE](LICENSE) for details.
 
 ### Made with
 
