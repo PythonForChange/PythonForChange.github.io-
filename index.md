@@ -1,22 +1,22 @@
 ## Welcome to Python for Change Community
-:D Under construction.
+:D Under construction 🛠️
 Python for Change is a open source proyect.
 
 ### Table of Contents
-:D Under construction.
+:D Under construction 🛠️
 
 ### Installation
-:D Under construction.
+:D Under construction 🛠️
 ```python
 import json
 ```
 
 ### Usage
-:D Under construction.
+:D Under construction 🛠️
 Include screenshots of the project in action.
 
 ### Contributing
-:D Under construction.
+:D Under construction 🛠️
 Larger projects often have sections on contributing to their project, in which contribution instructions are outlined. Sometimes, this is a separate file. If you have specific contribution preferences, explain them so that other developers know how to best contribute to your work. To learn more about how to help others contribute, check out the guide for setting guidelines for repository contributors.
 
 ### Credits
@@ -25,22 +25,17 @@ Larger projects often have sections on contributing to their project, in which c
 * **Our Community** - *ccontributing*
 * **Andrés Villanueva** - *this README is based on the README made by him* - [Villanuevand](https://github.com/Villanuevand)
 
-### License 📄
+### License
 
-This proyect is under the MIT lincense - check [LICENSE](LICENSE) for details.
+This proyect is under the MIT lincense 📄 - check [LICENSE](LICENSE) for details.
 
-### Made with 🛠️
+### Made with
 
 * [Python](https://www.python.org/) - Programming language
 
-### Wiki 📖
+### Wiki 
 
-You can find much more about how to use this project in our [Wiki](https://github.com/PythonForChange/pythonforchange.github.io/wiki)
-
-### Authors ✒️
-
-* **Emmanuel Norambuena** - *initial work* - [Eanorambuena](https://github.com/eanorambuena)
-* **Our Community** - *ccontributing*
+You can find much more about how to use this project in our [Wiki](https://github.com/PythonForChange/pythonforchange.github.io/wiki) 📖
 
 ### Support or Contact
 
