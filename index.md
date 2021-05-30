@@ -1,5 +1,7 @@
 ## Welcome to Python for Change Community
 
+![Logo](https://avatars.githubusercontent.com/u/85047398?s=400&u=b1dd5768bdf6618184d2b407f95f618ac3062b44&v=4)
+
 :D Under construction 🛠️.
 Python for Change is a open source proyect.
 
