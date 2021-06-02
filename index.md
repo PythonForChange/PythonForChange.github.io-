@@ -11,10 +11,6 @@ Python for Change is a open source proyect.
 
 :D Under construction 🛠️.
 
-```python
-import json
-```
-
 ### Usage
 
 :D Under construction 🛠️.
@@ -22,7 +18,7 @@ Include screenshots of the project in action.
 
 ### Contributing
 
-Learn more about how to help others contribute, check out the [CONTRIBUTING GUIDELINES](https://pythonforchange.github.io/codeofconduct/) for repository contributors.
+Learn more about how to help others contribute, check out the [CONTRIBUTING GUIDELINES](https://pythonforchange.github.io/CodeOfConduct/) for repository contributors.
 
 ### Credits
 
@@ -32,7 +28,7 @@ Learn more about how to help others contribute, check out the [CONTRIBUTING GUID
 
 ### License
 
-This proyect is under the MIT lincense 📄 - check out the [LICENSE](https://pythonforchange.github.io/license/) for details.
+This proyect is under the MIT lincense 📄 - check out the [LICENSE](https://pythonforchange.github.io/License/) for details.
 
 ### Made with
 
