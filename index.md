@@ -22,7 +22,7 @@ Include screenshots of the project in action.
 
 ### Contributing
 
-Learn more about how to help others contribute, check out the [CONTRIBUTING GUIDELINES](https://pythonforchange.github.io/codeofconduct_and_license/) for repository contributors.
+Learn more about how to help others contribute, check out the [CONTRIBUTING GUIDELINES](https://pythonforchange.github.io/codeofconduct/) for repository contributors.
 
 ### Credits
 
@@ -32,7 +32,7 @@ Learn more about how to help others contribute, check out the [CONTRIBUTING GUID
 
 ### License
 
-This proyect is under the MIT lincense 📄 - check out the [LICENSE](https://pythonforchange.github.io/codeofconduct_and_license/) for details.
+This proyect is under the MIT lincense 📄 - check out the [LICENSE](https://pythonforchange.github.io/license/) for details.
 
 ### Made with
 
