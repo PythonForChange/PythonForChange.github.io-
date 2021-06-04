@@ -18,7 +18,7 @@ Learn more about how to help others contribute, check out the [CONTRIBUTING GUID
 
 ### License
 
-This proyect is under the MIT lincense 📄. [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://pythonforchange.github.io/License/)
+This proyect is under the [MIT License](https://pythonforchange.github.io/License/).
 
 ### Made with
 
