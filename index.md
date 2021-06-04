@@ -16,7 +16,7 @@ Learn more about how to help others contribute, check out the [CONTRIBUTING GUID
 
 * **Emmanuel Norambuena** - *initial work* - [Eanorambuena](https://github.com/eanorambuena)
 * **Community** - *contributing*
-* **Andrés Villanueva** - *this README is based on the README made by him* - [Villanuevand](https://github.com/Villanuevand)
+* **Andrés Villanueva** - *this web page is based on the README made by him* - [Villanuevand](https://github.com/Villanuevand)
 
 ### License
 
