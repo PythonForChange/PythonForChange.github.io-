@@ -1,5 +1,7 @@
 ## Welcome to Python for Change Community
 
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://pythonforchange.github.io/License/)
+
 Python for Change is a open source proyect.
 
 ### Our software
