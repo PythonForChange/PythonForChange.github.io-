@@ -1,10 +1,21 @@
-## Welcome to Python for Change Community
+## Welcome to Python For Change Community
 
-Python for Change is a open source proyect.
+Python For Change is a open source proyect.
 
 ### Our software
 - [Covid Plot](https://pythonforchange.github.io/CovidPlot/)
 - [Python For Change FilesFormat](https://pythonforchange.github.io/FilesFormat/)
+
+### Installation (last stable version)
+1. Install pyforchange
+```
+pip install pyforchange
+```
+2. Import pyforchange in your python file
+```python
+import pyforchange
+```
+3. Enjoy!
 
 ### Contributing
 
@@ -34,5 +45,4 @@ Having trouble with Python For Change Software? Check out our [documentation](ht
 
 
 ---
-⌨️ con ❤️ por [Eanorambuena](https://github.com/eanorambuena) 😊
-:D Under construction 🛠️.
+⌨️ with ❤️ by [Eanorambuena](https://github.com/eanorambuena) 😊
