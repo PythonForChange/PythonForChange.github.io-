@@ -8,7 +8,7 @@ permalink: /filesformat
 
 # FilesFormat
 
-> PythonForChange FilesFormat allows me to easily integrate different functionalities of the Python For Change ecosystem.
+> PythonForChange FilesFormat allows me to easily integrate different Python For Change Ecosystem functionalities
 
 
 ### Sofware (for developers)
