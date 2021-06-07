@@ -14,7 +14,7 @@ permalink: /projects
 
 ### Sofware (for developers)
 
-[Get the last version of this software here](https://github.com/PythonForChange/pyforchange/archive/refs/heads/master.zip){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+[Get the last version here](https://github.com/PythonForChange/pyforchange/archive/refs/heads/master.zip){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
 ### Installation
 #### Option 1: Use pip (recommended, last stable version)
