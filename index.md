@@ -1,4 +1,4 @@
-## Welcome to PFC Community
+## Welcome to the community!
 
 Python For Change is a open source proyect.
 
