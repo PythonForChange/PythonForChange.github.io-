@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # Python For Change
-[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://pythonforchange.github.io/codeofconduct)&nbsp;
+
 ## Welcome to the community!
 Python For Change is a **open source** project.
 {: .fs-6 .fw-300 }
