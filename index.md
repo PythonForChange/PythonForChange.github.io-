@@ -7,6 +7,7 @@ permalink: /
 ---
 
 # Python For Change
+[![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://pythonforchange.github.io/codeofconduct)&nbsp;
 ## Welcome to the community!
 Python For Change is a **open source** project.
 {: .fs-6 .fw-300 }
@@ -15,8 +16,8 @@ Python For Change is a **open source** project.
 [Get started now](https://github.com/PythonForChange/pythonforchange.github.io){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View on Github](https://github.com/PythonForChange){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ### Our software
-- [Covid Plot](https://pythonforchange.github.io/covidplot/)
-- [Python For Change FilesFormat](https://pythonforchange.github.io/filesformat/)
+- [Covid Plot](https://pythonforchange.github.io/covidplot)
+- [Python For Change FilesFormat](https://pythonforchange.github.io/filesformat)
 
 ### Installation (last stable version)
 1. Install pyforchange
