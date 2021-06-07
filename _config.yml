@@ -1,3 +1,6 @@
 remote_theme: pmarsceill/just-the-docs
 title: PythonForChange
 search_enabled: false
+aux_links:
+  "View on Github":
+    - "//github.com/PythonForChange/pythonforchange.github.io"
