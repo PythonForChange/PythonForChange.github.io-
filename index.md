@@ -15,8 +15,8 @@ Python For Change is a **open source** project.
 [Get started now](https://github.com/PythonForChange/pythonforchange.github.io){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View on Github](https://github.com/PythonForChange){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ### Our software
-- [Covid Plot](https://pythonforchange.github.io/CovidPlot/)
-- [Python For Change FilesFormat](https://pythonforchange.github.io/FilesFormat/)
+- [Covid Plot](https://pythonforchange.github.io/covidplot/)
+- [Python For Change FilesFormat](https://pythonforchange.github.io/filesformat/)
 
 ### Installation (last stable version)
 1. Install pyforchange
