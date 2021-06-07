@@ -42,7 +42,7 @@ Learn more about how to help others contribute, check out the [CONTRIBUTING GUID
 
 ### License
 
-This proyect is under the [MIT License](https://pythonforchange.github.io/license/).
+This proyect is under the [MIT License](https://pythonforchange.github.io/license).
 
 ### Made with
 
