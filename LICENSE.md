@@ -1,4 +1,12 @@
-MIT License
+---
+layout: default
+title: License
+nav_order: 2
+description: ""
+permalink: /license
+---
+
+## MIT License
 
 Copyright (c) 2021 PythonForChange
 
