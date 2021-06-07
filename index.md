@@ -1,6 +1,16 @@
-## Welcome to the community!
+---
+layout: default
+title: Python For Change
+nav_order: 1
+description: ""
+permalink: /
+---
 
-Python For Change is a open source proyect.
+# Python For Change
+## Welcome to the community!
+Python For Change is a **open source proyect**.
+{: .fs-6 .fw-300 }
+
 
 [Get started now](https://github.com/PythonForChange/pythonforchange.github.io){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View on Github](https://github.com/PythonForChange){: .btn .fs-5 .mb-4 .mb-md-0 }
 
