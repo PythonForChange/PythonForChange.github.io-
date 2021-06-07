@@ -1,3 +1,12 @@
+---
+layout: default
+title: CovidPlot
+nav_order: 3
+description: ""
+permalink: /covidplot
+---
+
+
 # CovidPlot
 An easy way to plot COVID-19 info.
 
