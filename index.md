@@ -8,7 +8,7 @@ permalink: /
 
 # Python For Change
 ## Welcome to the community!
-Python For Change is a **open source proyect**.
+Python For Change is a **open source** project.
 {: .fs-6 .fw-300 }
 
 
