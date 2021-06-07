@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Projects
+title: Ecosystem
 nav_order: 2
 description: ""
-permalink: /projects
+permalink: /Ecosystem
 ---
 
-# Projects
+# Python For Change Ecosystem
 
 - [Covid Plot](https://pythonforchange.github.io/CovidPlot/)
 - [Python For Change FilesFormat](https://pythonforchange.github.io/FilesFormat/)
