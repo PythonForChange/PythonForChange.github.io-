@@ -3,7 +3,7 @@ layout: default
 title: Ecosystem
 nav_order: 2
 description: ""
-permalink: /Ecosystem
+permalink: /ecosystem
 ---
 
 # Python For Change Ecosystem
