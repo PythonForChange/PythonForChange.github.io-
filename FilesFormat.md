@@ -1,9 +1,9 @@
 ---
 layout: default
 title: FilesFormat
-nav_order: 3
+nav_order: 2
 description: ""
-permalink: /filesformat
+permalink: /FilesFormat
 ---
 
 # FilesFormat
