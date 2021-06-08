@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://avatars.githubusercontent.com/u/85047398?s=200&v=4" width="123px" height="123px" alt="Python For Change Project">
+</h1>
+
 # Python For Change Project
 
 [![contributions welcome](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&color=0059b3&style=flat-square)](https://pythonforchange.github.io/codeofconduct)&nbsp;
