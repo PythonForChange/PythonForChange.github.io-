@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://avatars.githubusercontent.com/u/85047398?s=200&v=4" width="123px" height="123px" alt="Python For Change Project">
+  <a title="Python For Change" href="http://pythonforchange.github.io"><img src="https://avatars.githubusercontent.com/u/85047398?s=200&v=4" width="200px" height="200px" alt="Python For Change Project"></a>
 </h1>
 
 # Python For Change Project
