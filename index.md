@@ -21,6 +21,7 @@ svg{
 </style>
 
 <div>
+<a title="pyforchange href="https://pypi.org/project/pyforchange/">
 <svg width="50%" height="50%" viewBox="30 -50 200 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
  <path id="path">
 		<animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="6.8s" begin="0s" repeatCount="indefinite"/>
@@ -43,6 +44,7 @@ Python For Change is a **open source** project.
 ### Our software
 - [Covid Plot](https://pythonforchange.github.io/covidplot)
 - [Python For Change FilesFormat](https://pythonforchange.github.io/filesformat)
+- [Cell](https://pythonforchange.github.io/cell)		    
 
 ### Installation (last stable version)
 1. Install pyforchange
