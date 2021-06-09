@@ -7,8 +7,7 @@ permalink: /
 ---
 
 # Python For Change
-(setq markdown-xhtml-header-content
-      "<style type='text/css'>
+<style type='text/css'>
 @import url(https://fonts.googleapis.com/css?family=Montserrat:700);
 div{
   margin:100;
@@ -19,7 +18,7 @@ div{
 svg{
   width:100%;
 }
-</style>")
+</style>
 
 <div>
 <h1 align="right">
