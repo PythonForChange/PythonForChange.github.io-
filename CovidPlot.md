@@ -12,7 +12,7 @@ An easy way to plot COVID-19 info.
 
 ### Sofware (for developers)
 
-[Get the last version of this software here](https://github.com/PythonForChange/CovidPlot/blob/main/covidPlot.py).
+[Get the last version of this software here](https://github.com/PythonForChange/CovidPlot/blob/main/covidplot.py).
 CovidPlot
 
 ### Installation
@@ -23,22 +23,22 @@ pip install pyforchange
 ```
 2. Import covidPlot in your python file
 ```python
-import pyforchange.covidPlot
+import pyforchange.covidplot
 ```
 3. Enjoy!
 
 #### Option 2: Download the source (unstable pre-realise version)
-1. Download [covidPlot](covidPlot.py) into your proyect folder
-2. Import covidPlot in your python file
+1. Download [covidplot](covidplot.py) into your proyect folder
+2. Import covidplot in your python file
 ```python
-import covidPlot
+import covidplot
 ```
 3. Enjoy!
 
 ### Usage
 Import covidPlot and define datasets.
 ```python
-from pyforchange.covidPlot import *
+from pyforchange.covidplot import *
 
 chile=CovidData()
 usa=CovidData('United States')
