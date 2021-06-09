@@ -29,7 +29,7 @@ svg{
 		<textPath xlink:href="#path"> . &nbsp; &nbsp; &nbsp; &nbsp;  pip install pyforchange
     </textPath>
 	</text>
-</svg>
+  </svg></a>
 </div>
 
 
