@@ -7,6 +7,7 @@ permalink: /
 ---
 
 # Python For Change
+<link rel="stylesheet" type="text/css" media="all" href="https://raw.githubusercontent.com/PythonForChange/pythonforchange.github.io/main/style.css" />
 <h1 align="center">
 <svg width="100%" height="100%" viewBox="30 -50 600 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
  <path id="path">
