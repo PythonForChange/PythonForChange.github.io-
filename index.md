@@ -11,7 +11,7 @@ permalink: /
       "<style type='text/css'>
 @import url(https://fonts.googleapis.com/css?family=Montserrat:700);
 div{
-  margin:0;
+  margin:100;
   width:100%; 
   height:100vh;
   overflow:hidden;
