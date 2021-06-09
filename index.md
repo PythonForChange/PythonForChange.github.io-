@@ -11,6 +11,7 @@ permalink: /
 @import url(https://fonts.googleapis.com/css?family=Montserrat:700);
 div{
   margin:100;
+  padding:100;
   width:100%; 
   height:100vh;
   overflow:hidden;
@@ -21,17 +22,15 @@ svg{
 </style>
 
 <div>
-<h1 align="right">
 <svg width="100%" height="100%" viewBox="30 -50 600 500" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
  <path id="path">
 		<animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="6.8s" begin="0s" repeatCount="indefinite"/>
 	</path>
 	<text font-size="26" font-family="Montserrat" fill='hsla(0, 1%, 1%, 1)'>
-		<textPath xlink:href="#path">         pip install pyforchange
+		<textPath xlink:href="#path"> .        pip install pyforchange
     </textPath>
 	</text>
 </svg>
-</h1>
 </div>
 
 
