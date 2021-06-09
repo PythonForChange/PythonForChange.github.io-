@@ -10,8 +10,8 @@ permalink: /
 <style type='text/css'>
 @import url(https://fonts.googleapis.com/css?family=Montserrat:700);
 #parr{
-  width:100%; 
-  height:50vh;
+  width:100vh; 
+  height:10vh;
   overflow:hidden;
 }
 svg{
