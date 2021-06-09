@@ -29,7 +29,7 @@ import pyforchange.pfcf
 3. Enjoy!
 
 #### Option 2: Download the source (unstable pre-realise version)
-1. Download [PFCF](pfcf.py) into your proyect folder
+1. Download [PFCF](https://github.com/PythonForChange/FilesFormat/blob/main/pfcf.py) into your proyect folder
 2. Import pfcf in your python file
 ```python
 import pfcf
@@ -56,8 +56,14 @@ l.read()
 ```
 First, log1_0.pfcf file is made.
 
+v2.0.1 or lower:
 ```pfcf
 hello[,world",|hello\[,world\",|by Eanorambuena~t~h~i~s~ ~t~e~x~t~ ~c~a~n~ ~n~o~t~ ~b~e~ ~p~r~i~n~t~e~d,
+```
+
+v2.0.2 or upper:
+```pfcf
+hello[,world",|hello\[,world\",|by Eanorambuena~this text can not be printed~,
 ```
 
 Then, log1_0.pfcf is read and printed.
@@ -87,8 +93,14 @@ l.read()
 ```
  
 First, log1_1.pfcf file is made.
+
+v2.0.1 or lower:
 ```pfcf
 :t:h:i:s: :t:e:x:t: :c:a:n: :n:o:t: :b:e: :p:r:i:n:t:e:d,
+```
+v2.0.2 or upper:
+```pfcf
+:this text can not be printed:,
 ```
 
 Then, log1_1.pfcf is read and printed.
