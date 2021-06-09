@@ -27,7 +27,7 @@ svg{
 		<animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="6.8s" begin="0s" repeatCount="indefinite"/>
 	</path>
 	<text font-size="26" font-family="Montserrat" fill='hsla(0, 1%, 1%, 1)'>
-		<textPath xlink:href="#path"> .        pip install pyforchange
+		<textPath xlink:href="#path"> . &nbsp; &nbsp; &nbsp; &nbsp;  pip install pyforchange
     </textPath>
 	</text>
 </svg>
