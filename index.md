@@ -11,11 +11,12 @@ permalink: /
 @import url(https://fonts.googleapis.com/css?family=Montserrat:700);
 #parr{
   width:100vh; 
-  height:10vh;
+  height:50vh;
   overflow:hidden;
 }
 svg{
-  width:100%;
+  width:100vh;
+  height:50vh;	
 }
 </style>
 
