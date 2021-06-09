@@ -8,9 +8,9 @@ permalink: /ecosystem
 
 # Python For Change Ecosystem
 
-- [Covid Plot](https://pythonforchange.github.io/covidplot/)
-- [Python For Change FilesFormat](https://pythonforchange.github.io/filesformat/)
-
+- [Covid Plot](https://pythonforchange.github.io/covidplot)
+- [Python For Change FilesFormat](https://pythonforchange.github.io/filesformat)
+- [Cell](https://pythonforchange.github.io/cell)
 
 ### Sofware (for developers)
 <br>
