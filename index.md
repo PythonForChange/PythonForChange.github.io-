@@ -7,7 +7,7 @@ permalink: /
 ---
 
 # Python For Change
-setq markdown-xhtml-header-content
+(setq markdown-xhtml-header-content
       "<style type='text/css'>
 @import url(https://fonts.googleapis.com/css?family=Montserrat:700);
 div{
