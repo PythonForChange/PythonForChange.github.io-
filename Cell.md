@@ -11,7 +11,7 @@ The cells are alive!
 
 ### Sofware (for developers)
 
-[Get the last version of this software here](https://github.com/PythonForChange/Cell/blob/main/cell.py).
+[Get the last version of this software here](https://github.com/PythonForChange/Cell/blob/main/cell.py.
 
 ### Installation
 #### Option 1: Use pip (recommended, last stable version)
@@ -26,7 +26,7 @@ import pyforchange.cell
 3. Enjoy!
 
 #### Option 2: Download the source (unstable pre-realise version)
-1. Download [cell](cell.py) into your proyect folder
+1. Download [cell](https://github.com/PythonForChange/Cell/blob/main/cell.py) into your proyect folder
 2. Import cell in your python file
 ```python
 import cell
