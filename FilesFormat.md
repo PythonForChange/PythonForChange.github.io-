@@ -1,23 +1,22 @@
 ---
 layout: default
-title: FilesFormat
+title: Format
 nav_order: 2
 description: ""
-permalink: /filesformat
+permalink: /format
 ---
 
 # FilesFormat
 
-> PythonForChange FilesFormat allows me to easily integrate different Python For Change Ecosystem functionalities
+> Python For Change Format .pfcf allows me to easily integrate different Python For Change Ecosystem functionalities
 
 
 ### Sofware (for developers)
 
-[Get the last version of this software here](https://github.com/PythonForChange/FilesFormat/blob/main/pfcf.py).
+[Get the last version of this software here](https://github.com/PythonForChange/FilesFormat.
 
 
-### Installation
-#### Option 1: Use pip (recommended, last stable version)
+### Installation (last stable version)
 1. Install pyforchange
 ```
 pip install pyforchange
@@ -28,21 +27,12 @@ import pyforchange.pfcf
 ```
 3. Enjoy!
 
-#### Option 2: Download the source (unstable pre-realise version)
-1. Download [PFCF](https://github.com/PythonForChange/FilesFormat/blob/main/pfcf.py) into your proyect folder
-2. Import pfcf in your python file
-```python
-import pfcf
-```
-3. Enjoy!
-
-
 ### Usage
  
 #### Example 1
 Import pfcf and give the instructions.
 ```python
-from pyforchange.pfcf import *
+from pyforchange.pfcf.files import *
 
 l=LogFile("log1")
 l.row("hello[") #this [ can not be printed
@@ -55,11 +45,6 @@ l.row("by Eanorambuena"+l.den("this text can not be printed"))
 l.read()
 ```
 First, log1_0.pfcf file is made.
-
-v2.0.1 or lower:
-```pfcf
-hello[,world",|hello\[,world\",|by Eanorambuena~t~h~i~s~ ~t~e~x~t~ ~c~a~n~ ~n~o~t~ ~b~e~ ~p~r~i~n~t~e~d,
-```
 
 v2.0.2 or upper:
 ```pfcf
@@ -94,10 +79,6 @@ l.read()
  
 First, log1_1.pfcf file is made.
 
-v2.0.1 or lower:
-```pfcf
-:t:h:i:s: :t:e:x:t: :c:a:n: :n:o:t: :b:e: :p:r:i:n:t:e:d,
-```
 v2.0.2 or upper:
 ```pfcf
 :this text can not be printed:,
