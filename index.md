@@ -9,9 +9,10 @@ permalink: /
 # Python For Change
 
 ### pip install pyforchange 
-### import pyforchange.pfcf
-###                   .cell
-###                   .covidplot
+| import pyforchange | .pfcf |
+| import pyforchange | .cell |
+| import pyforchange | .covidplot |
+ 
 
 ## Welcome to the community!
 Python For Change is a **open source** project.
