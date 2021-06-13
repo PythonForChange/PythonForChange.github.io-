@@ -7,31 +7,11 @@ permalink: /
 ---
 
 # Python For Change
-<style type='text/css'>
-@import url(https://fonts.googleapis.com/css?family=Montserrat:700);
-#parr{
-  width:100vh; 
-  height:10vh;
-  overflow:hidden;
-}
-svg{
-  width:100vh;
-  height:50vh;	
-}
-</style>
 
-<p id="parr">
-<svg width="100%" height="100%" viewBox="30 0 600 200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
- <path id="path">
-		<animate attributeName="d" from="m0,110 h0" to="m0,110 h1100" dur="6.8s" begin="0s" repeatCount="indefinite"/>
-	</path>
-	<text font-size="26" font-family="Montserrat" fill='hsla(0, 1%, 1%, 1)'>
-		<textPath xlink:href="#path"> &nbsp; &nbsp; &nbsp; &nbsp;  pip install pyforchange 
-    </textPath>
-	</text>
-  </svg>
-</p>
-
+### pip install pyforchange 
+### import pyforchange.pfcf
+###                   .cell
+###                   .covidplot
 
 ## Welcome to the community!
 Python For Change is a **open source** project.
