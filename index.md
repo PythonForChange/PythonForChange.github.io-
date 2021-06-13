@@ -8,7 +8,8 @@ permalink: /
 
 # Python For Change
 
-pip install pyforchange {: .fs-6 .fw-300 }
+pip install pyforchange
+{: .fs-6 .fw-300 }
 
 
 ## Welcome to the community!
