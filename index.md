@@ -8,11 +8,8 @@ permalink: /
 
 # Python For Change
 
-### pip install pyforchange 
-#### import pyforchange .pfcf 
-#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; .cell
-#### &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; .covidplot
- 
+pip install pyforchange {: .fs-6 .fw-300 }
+
 
 ## Welcome to the community!
 Python For Change is a **open source** project.
