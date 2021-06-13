@@ -21,7 +21,7 @@ Python For Change is a **open source** project.
 
 ### Our software
 - [Covid Plot](https://pythonforchange.github.io/covidplot)
-- [PFCF Language](https://pythonforchange.github.io/format)
+- [PFCF Language](https://pythonforchange.github.io/pfcf)
 - [Cell](https://pythonforchange.github.io/cell)	
 - [Pyfoch Editor](https://pythonforchange.github.io/pyfoch)		    
 
