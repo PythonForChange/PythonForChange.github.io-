@@ -32,7 +32,8 @@ import pyforchange.pfcf
 #### Example
 1. Open [Pyfoch](https://pythonforchange.github.io/pyfoch).
 2. Write the following lines:
-```
+
+```python
 hello,world",|
 
 ~this text can not be printed~
@@ -125,12 +126,14 @@ Range[5]
 ### Export PFCF code using pyforchange package
 
 Import executepfcf from pyforchange.pfcf.read.
+
 ```python
 from pyforchange.pfcf.read import executepfcf
 ```
-Execute <yourfilename>.pfcf
+Execute yourfilename.pfcf
+    
 ```python
-executepfcf(<yourfilename>)
+executepfcf(yourfilename)
 ```
 
 ### Using pyforchange package in order to create log files
