@@ -1,19 +1,19 @@
 ---
 layout: default
-title: Format
+title: PFCF Language
 nav_order: 2
 description: ""
-permalink: /format
+permalink: /pfcf
 ---
 
-# FilesFormat
+# PFCF Language
 
-> Python For Change Format .pfcf allows me to easily integrate different Python For Change Ecosystem functionalities
+> Python For Change Format Language allows me to easily integrate different Python For Change Ecosystem functionalities
 
 
 ### Sofware (for developers)
 
-[Get the last version of this software here](https://github.com/PythonForChange/FilesFormat.
+[Get the last version of this software here](https://github.com/PythonForChange/FilesFormat)
 
 
 ### Installation (last stable version)
@@ -27,7 +27,99 @@ import pyforchange.pfcf
 ```
 3. Enjoy!
 
-### Usage
+### Writting PFCF code with [Pyfoch editor](https://pythonforchange.github.io/pyfoch)
+
+#### Example
+1. Open [Pyfoch](https://pythonforchange.github.io/pyfoch).
+2. Write the following lines:
+```PFCF
+hello,world",|
+
+~this text can not be printed~
+Hi!,
+
+1. Run main.py,
+2. Edit this file (example.pfcf) and see the magic,
+3. This is the first real-time editor of .pfcf files,|
+
+Welcome to pfcf,
+~
+multiline
+commentary
+~
+a new lang...,
+a new experience...,
+Welcome to the future,:),|
+
+May 10 2021\, 13:45,
+by Eanorambuena,|
+
+Add code like this:,|
+\<qiskit\>,
+q0  q1,
+    X,
+H,
+.---X,
+c1,
+$host qasm_simulator,
+$hist true,
+$draw true,
+\</qiskit\>\,,
+|
+\<python\>,
+print(\"hello world\"),
+\</python\>\,,
+|
+\<wolfram\>,
+Range[5],
+\</wolfram\>\,,
+```
+3. In "File" menu, click on "Export".
+4. Give a name to your exported file and save.
+5. Open the exported file.
+6. The exported file will have the following text:
+```
+hello
+world
+
+Hi!
+1. Run main.py
+2. Edit this file (example.pfcf) and see the magic
+3. This is the first real-time editor of .pfcf files
+
+Welcome to pfcf
+a new lang...
+a new experience...
+Welcome to the future
+:)
+
+May 10 2021, 13:45
+by Eanorambuena
+
+Add code like this:
+
+<qiskit>
+q0  q1
+    X
+H
+.---X
+c1
+$host qasm_simulator
+$hist true
+$draw true
+</qiskit>,
+
+<python>
+print("hello world")
+</python>,
+
+<wolfram>
+Range[5]
+</wolfram>,
+```
+7. Enjoy!
+
+### Using pyforchange.pfcf package
  
 #### Example 1
 Import pfcf and give the instructions.
@@ -47,7 +139,7 @@ l.read()
 First, log1_0.pfcf file is made.
 
 v2.0.2 or upper:
-```pfcf
+```PFCF
 hello[,world",|hello\[,world\",|by Eanorambuena~this text can not be printed~,
 ```
 
@@ -65,7 +157,7 @@ by Eanorambuena
 
 
 Finally, `0` is append to log1_hist.pfcf file.
-```pfcf
+```PFCF
 0
 ```
  
@@ -80,7 +172,7 @@ l.read()
 First, log1_1.pfcf file is made.
 
 v2.0.2 or upper:
-```pfcf
+```PFCF
 :this text can not be printed:,
 ```
 
@@ -91,7 +183,7 @@ Then, log1_1.pfcf is read and printed.
 
 
 Finally, `1` is append to log1_hist.pfcf file.
-```pfcf
+```PFCF
 0
 1
 ```
