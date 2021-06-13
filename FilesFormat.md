@@ -32,7 +32,7 @@ import pyforchange.pfcf
 #### Example
 1. Open [Pyfoch](https://pythonforchange.github.io/pyfoch).
 2. Write the following lines:
-```PFCF
+```
 hello,world",|
 
 ~this text can not be printed~
@@ -74,10 +74,12 @@ print(\"hello world\"),
 Range[5],
 \</wolfram\>\,,
 ```
+
 3. In "File" menu, click on "Export".
 4. Give a name to your exported file and save.
 5. Open the exported file.
 6. The exported file will have the following text:
+
 ```
 hello
 world
@@ -117,6 +119,7 @@ print("hello world")
 Range[5]
 </wolfram>,
 ```
+
 7. Enjoy!
 
 ### Using pyforchange.pfcf package
