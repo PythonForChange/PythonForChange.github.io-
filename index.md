@@ -38,7 +38,7 @@ Python For Change is a **open source** project.
 {: .fs-6 .fw-300 }
 
 
-[Get started now](https://github.com/PythonForChange/pythonforchange.github.io){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View on Github](https://github.com/PythonForChange){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](https://pythonforchange.github.io/download){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View on Github](https://github.com/PythonForChange/pyforchange){: .btn .fs-5 .mb-4 .mb-md-0 }
 
 ### Our software
 - [Covid Plot](https://pythonforchange.github.io/covidplot)
