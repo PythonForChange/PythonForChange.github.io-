@@ -122,7 +122,18 @@ Range[5]
 
 7. Enjoy!
 
-### Using pyforchange.pfcf package
+### Export PFCF code using pyforchange package
+
+Import executepfcf from pyforchange.pfcf.read.
+```python
+from pyforchange.pfcf.read import executepfcf
+```
+Execute <yourfilename>.pfcf
+```python
+executepfcf(<yourfilename>)
+```
+
+### Using pyforchange package in order to create log files
  
 #### Example 1
 Import pfcf and give the instructions.
@@ -142,7 +153,7 @@ l.read()
 First, log1_0.pfcf file is made.
 
 v2.0.2 or upper:
-```PFCF
+```
 hello[,world",|hello\[,world\",|by Eanorambuena~this text can not be printed~,
 ```
 
@@ -160,7 +171,7 @@ by Eanorambuena
 
 
 Finally, `0` is append to log1_hist.pfcf file.
-```PFCF
+```
 0
 ```
  
@@ -175,7 +186,7 @@ l.read()
 First, log1_1.pfcf file is made.
 
 v2.0.2 or upper:
-```PFCF
+```
 :this text can not be printed:,
 ```
 
@@ -186,7 +197,7 @@ Then, log1_1.pfcf is read and printed.
 
 
 Finally, `1` is append to log1_hist.pfcf file.
-```PFCF
+```
 0
 1
 ```
