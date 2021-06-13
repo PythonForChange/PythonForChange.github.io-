@@ -9,4 +9,4 @@ permalink: /pyfoch
 # Pyfoch
 Pyfoch is the first editor for PFCF files.
 
-[Get started now (Download)](https://github.com/PythonForChange/PyfochEditor/blob/main/editor.exe?raw=true){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View on Github](https://github.com/PythonForChange/PyfochEditor){: .btn .fs-5 .mb-4 .mb-md-0 }
+[Get started now](https://pythonforchange.github.io/download){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View on Github](https://github.com/PythonForChange/PyfochEditor){: .btn .fs-5 .mb-4 .mb-md-0 }
