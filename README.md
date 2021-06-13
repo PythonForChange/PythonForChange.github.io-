@@ -14,4 +14,4 @@
 | PFCF Language | [.pfcf](https://github.com/PythonForChange/FilesFormat) |
 | CovidPlot | [CovidPlot](https://github.com/PythonForChange/CovidPlot) | 
 | Cell | [Cell](https://github.com/PythonForChange/Cell) |
-| PyforchEditor | [PyforchEditor](https://github.com/PythonForChange/PyforchEditor) |
+| Pyfoch| [PyfochEditor](https://github.com/PythonForChange/PyfochEditor) |
