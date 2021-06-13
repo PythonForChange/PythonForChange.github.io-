@@ -33,7 +33,7 @@ import pyforchange.pfcf
 1. Open [Pyfoch](https://pythonforchange.github.io/pyfoch).
 2. Write the following lines:
 
-```python
+```
 hello,world",|
 
 ~this text can not be printed~
