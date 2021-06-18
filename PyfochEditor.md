@@ -13,6 +13,6 @@ Pyfoch is the first editor for PFCF files.
 
 ## Documentation
 
-[Pyfoch documentation is now hosted on the Read the Docs service.](https://pyfoch.readthedocs.io/en/latest/)
+[Pyfoch documentation](https://pyfoch.readthedocs.io/en/latest/) is now hosted on the [Read the Docs service](https://pyfoch.readthedocs.io/en/latest/).
 
 
