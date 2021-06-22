@@ -14,4 +14,6 @@
 | Pyfoch Language | [FilesFormat](https://github.com/PythonForChange/FilesFormat) |
 | CovidPlot | [CovidPlot](https://github.com/PythonForChange/CovidPlot) | 
 | Cell | [Cell](https://github.com/PythonForChange/Cell) |
+| Pypi Pyfoch Package | [pyforchange](https://github.com/PythonForChange/pyforchange) |
 | Pyfoch| [PyfochEditor](https://github.com/PythonForChange/PyfochEditor) |
+| Pyfoch Documentation| [PyfochDocs](https://github.com/PythonForChange/PyfochDocs) |
