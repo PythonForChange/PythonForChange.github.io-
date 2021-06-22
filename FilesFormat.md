@@ -8,12 +8,17 @@ permalink: /pfcf
 
 # PFCF Language
 
+A Markup Language for Pyfoch implementations.
 > Python For Change Format Language allows me to easily integrate different Python For Change Ecosystem functionalities
 
 
 ### Sofware (for developers)
 
 [Get the last version of this software here](https://github.com/PythonForChange/FilesFormat)
+{: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
+
+[Read the docs here](https://pyfoch.readthedocs.io/en/latest/)
+{: .btn .fs-5 .mb-4 .mb-md-0 }
 
 
 ### Installation (last stable version)
