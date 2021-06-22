@@ -11,7 +11,7 @@
 | Project            |                                                                    Repository(s)                                                                   |
 |---------------------|:---------------------------------------------------------------------------------------------------------------------------------------------------:|
 | Python For Change Official Site | [pythonforchange.github.io](https://github.com/PythonForChange/pythonforchange.github.io) |
-| PFCF Language | [FilesFormat](https://github.com/PythonForChange/FilesFormat) |
+| Pyfoch Language | [FilesFormat](https://github.com/PythonForChange/FilesFormat) |
 | CovidPlot | [CovidPlot](https://github.com/PythonForChange/CovidPlot) | 
 | Cell | [Cell](https://github.com/PythonForChange/Cell) |
 | Pyfoch| [PyfochEditor](https://github.com/PythonForChange/PyfochEditor) |
