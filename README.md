@@ -17,3 +17,11 @@
 | Pypi Pyfoch Package | [pyforchange](https://github.com/PythonForChange/pyforchange) |
 | Pyfoch| [PyfochEditor](https://github.com/PythonForChange/PyfochEditor) |
 | Pyfoch Documentation| [PyfochDocs](https://github.com/PythonForChange/PyfochDocs) |
+
+## News
+### PythonForChange Announce New SDL: Natural Quantum Script 
+#### 06/23/2021 Santiago, Chile
+##### Tags: [language](), [quantum]()
+
+NQS (Natural Quantum Script) is a speciall domain programming language. It is focused on quantum devices scripting.
+The launching date will be announced soon.
