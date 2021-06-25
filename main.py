@@ -175,8 +175,7 @@ from resources.news import New
 from resources.config import files,year
 from resources.utils import clearConsole,sleep
 print("Running...")
-sleep(10)
-clearConsole()
+sleep(100)
 
 #New
 new=New(title,day,month,year,files)
